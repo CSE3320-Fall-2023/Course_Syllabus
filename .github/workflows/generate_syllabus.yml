@@ -19,7 +19,7 @@ jobs:
       
       - name: Compile LaTeX document 001
         id: compile-latex-document-001
-        uses: thomas-chauvet/latex2pdf-action@1.0.4
+        uses: thomas-chauvet/latex2pdf-action@1.1.0
         with:
           output_dir: output
           main_latex_file: source/001/Section_001_Summer_2023.tex
