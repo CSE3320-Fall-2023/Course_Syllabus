@@ -6,6 +6,7 @@ WORKDIR /var/local
 RUN apt-get update && \
     apt-get install -y perl wget libfontconfig1 fonts-font-awesome && \
     wget -qO- "https://yihui.org/tinytex/install-bin-unix.sh" | sh  && \
+    apt-get install texlive-latex-extra --no-install-recommends && \
     apt-get clean
 ENV PATH="${PATH}:/root/bin"
 
