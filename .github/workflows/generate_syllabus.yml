@@ -29,4 +29,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: output-fontawesome
-          path: "Section_001_Sumemr_2023.pdf"
+          path: "Section_001_Summer_2023.pdf"
