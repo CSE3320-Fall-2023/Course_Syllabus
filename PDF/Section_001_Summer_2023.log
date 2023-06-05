@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.6.4)  4 JUN 2023 21:12
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.6.5)  5 JUN 2023 22:45
  restricted system commands enabled.
 **source/001/Section_001_Summer_2023.tex
 (./source/001/Section_001_Summer_2023.tex
@@ -79,10 +79,9 @@ File: l3backend-luatex.def 2023-04-19 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count191
 Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box51
-)
-No file Section_001_Summer_2023.aux.
-
+) (./PDF/Section_001_Summer_2023.aux)
 \openout1 = Section_001_Summer_2023.aux
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
@@ -93,7 +92,7 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 19.
-(/root/.TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/root/.TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 19.
@@ -202,12 +201,12 @@ Overfull \hbox (42.45511pt too wide) in paragraph at lines 198--200
 [8<./source/001/schedule.png>] (./PDF/Section_001_Summer_2023.aux))
 
 Here is how much of LuaTeX's memory you used:
- 1250 strings out of 478305
+ 1256 strings out of 478305
  100000,1977958 words of node,token memory allocated
  451 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 57 glue_spec, 4 attribute_list, 1 write nodes
    avail lists: 2:212,3:66,4:36,5:374,6:31,7:7649,8:1,9:236,10:23,11:683
- 21411 multiletter control sequences out of 65536+600000
+ 21412 multiletter control sequences out of 65536+600000
  27 fonts using 1608751 bytes
  55i,9n,59p,1185b,215s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </root/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-italic.otf></root/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></root/.TinyTeX/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf>
